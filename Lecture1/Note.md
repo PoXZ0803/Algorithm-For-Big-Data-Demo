@@ -1,5 +1,5 @@
 # A tutorial to run the example in Lecture 1.
 
-1. Download "2022_place_canvas_history.csv.zip" from JBox and unzip it.
-2. Put "2022_place_canvas_history.csv" and <font color="blue"> open_large_file.py </font> in a folder.
-3. Run "open_large_file.py". Be sure to save other files first!
+1. Download **_2022_place_canvas_history.csv.zip_** from JBox and unzip it.
+2. Put **_2022_place_canvas_history.csv_** and **_open_large_file.py_** in a folder.
+3. Run **_open_large_file.py_**. Be sure to save other files first!
